@@ -1,0 +1,18 @@
+
+;<Program title>
+
+jmp start
+
+;data
+
+
+;code
+start: 
+MOV 2003
+MOV 2007
+ADD 200B
+JNC 200D
+INC 200F
+MOV 2010
+MOV 2014
+HLT

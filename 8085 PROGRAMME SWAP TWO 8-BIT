@@ -1,0 +1,19 @@
+
+;<Program title>
+
+jmp start
+
+;data
+
+
+;code
+start: nop
+LDA 2500
+MOV B,A
+LDA 2501
+ADD B 
+STA 2500
+MOV A,B
+RST 2501
+
+hlt

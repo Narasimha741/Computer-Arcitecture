@@ -1,0 +1,8 @@
+LDA 8500
+MVI B,A
+LDA 8501
+ADD B
+STA 8502
+RST 1
+Footer
+© 2022 GitHu

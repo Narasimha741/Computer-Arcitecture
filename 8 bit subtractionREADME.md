@@ -1,8 +1,0 @@
-# Computer-Arcitecture
-programmes
-LDA 8500
-MVI B,A
-LDA 8501
-SUB B
-STA 8502
-RST 1
